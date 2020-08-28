@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.controller</groupId>
-	<artifactId>MovieTicketBooking</artifactId>
+	<artifactId>GroceryShopping</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>MovieTicketBooking</name>
+	<name>GroceryShopping</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
